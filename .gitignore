@@ -128,8 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Others
 staticfiles/
 media/
-data/
-docker.env
 .DS_Store
