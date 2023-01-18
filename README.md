@@ -3,7 +3,7 @@
 - Criando um container com o Postgres \
   `docker-compose up -d`
 
-- Crie o database (tenant_db) que está no settings.py da forma que preferir \
+- Crie o database (tenant_db) que está no settings.py da forma que preferir
 
 - Instale as dependências \
   `pip install -r requirements.txt --use-pep517`
